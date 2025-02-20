@@ -1,0 +1,30 @@
+# Virtual Environment
+ai/
+venv/
+env/
+.env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+*.swp
+.idea/
+*.iml
+
+chromedriver.exe
+page.png
